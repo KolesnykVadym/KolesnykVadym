@@ -13,7 +13,7 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: I also watch a lot of videos on YouTube..
 
-- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-vadymkolesnyk25-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new/koles)
+- :mailbox: How to contact me: [![Telegram Badge](https://img.shields.io/badge/-vadymkolesnyk25-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/f1llzzz) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kolesnikv783@gmail.com)
 
 ---
 
