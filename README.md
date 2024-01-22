@@ -25,7 +25,7 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/вадим-колесник-b76610288" target="_blank">
+    <a href="https://www.linkedin.com/in/vadym-kolesnyk-b76610288/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <a href="https://t.me/vadymkolesnyk25" target="_blank">
