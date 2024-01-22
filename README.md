@@ -7,7 +7,9 @@
 I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in it began in college, where I studied using templates. After college there was a gap of a couple of months where I tried myself in many directions, and went a little in the wrong direction. But then I realized that I was not doing what I wanted and began to try myself in IT. What hooked me most was web development! From May 2023 until now I have been studying web development in courses from Hebron Academy. I also took a course from Genius Space to become a full stack developer!
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="              - name: generate-snake-game-from-github-contribution-grid
+                uses: Platane/snk@v3.2.0
+            " alt="snake"/>
 </p>
 
 - :telescope: Student Hebron Academy.
@@ -28,9 +30,6 @@ I'm a beginner web developer<img src="https://media.giphy.com/media/WUlplcMpOCEm
     </a>
     <a href="https://t.me/vadymkolesnyk25" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-    </a>
-    <a href="https://www.instagram.com/vadym.kolesnyk/" target="_blank">
-      <img src="https://icons8.ru/icon/Xy10Jcu1L2Su/instagram" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
 
